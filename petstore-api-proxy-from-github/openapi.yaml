@@ -2,7 +2,7 @@ openapi: 3.0.2
 info:
   title: Swagger Petstore - OpenAPI 3.0
   description: >-
-    This is a sample Pet Store Server based on the OpenAPI 3.0 specification modified only this line 1. 
+    This is a sample Pet Store Server based on the OpenAPI 3.0 specification modified only this line 2. 
     You can find out more about
 
     Swagger at [http://swagger.io](http://swagger.io). In the third iteration of
